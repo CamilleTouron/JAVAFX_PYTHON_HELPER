@@ -1,0 +1,6 @@
+/target/*
+/tmp/*
+*.zip
+*.tar
+*.tgz
+/target/
